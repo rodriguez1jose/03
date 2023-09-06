@@ -1,4 +1,4 @@
-/ Materia: Programación I, Paralelo 1
+// Materia: Programación I, Paralelo 1
 
 // Autor: Jose Joaquin Rodriguez Ojeda
 
