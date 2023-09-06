@@ -8,7 +8,8 @@
 
 // Número de ejericio: 14
 
-// Problema planteado:
+// Problema planteado: Simule una elección de nuestro país Bolivia. En ello se mostrará las elecciones por departamento y existirá N candidatos.
+// El programa debe pedir la cantidad de votos por departamento y candidato y almacenarlos en una matriz
 
 #include <iostream>
 using namespace std;

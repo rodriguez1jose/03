@@ -21,7 +21,7 @@ int main() {
 
     int totalVentas = 0;
     int ventasMax = -1;
-    int ventasMin = 1000000; // Valor grande como límite superior inicial.
+    int ventasMin = 1000000; // Valor grande como limite superior inicial.
     int sucursalMax = -1;
     int sucursalMin = -1;
 
